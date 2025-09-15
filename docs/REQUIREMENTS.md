@@ -1,0 +1,42 @@
+## Entidad: Libro
+- Cada libro debe tener:
+    - Titulo (aobligatorio)
+    - Author(es)
+    - Editorial
+    - ISBN
+    - Portada
+    - Sinopsis
+    - Fecha de Lanzamiento
+    - Idioma
+    - Número de páginas
+    - Encuadernación
+    - Ilustrador
+    - Año de edición
+    - Colección
+    - Alto
+    - Ancho
+    - Grueso
+    - Peso
+    - Valoración
+
+- Cada Author debe tener:
+    - Nombre
+    - Apellido
+    - Apodo
+    - Biografia
+    - Nacionalidad
+    - Fecha de Nacimiento
+    - Fecha de Fallecimiento
+    - Premios
+    - Genero
+    - Fotografia
+    - Libros
+    - Valoración
+
+- Cada Editorial debe tener:
+    - Nombre
+    - Nacionalidad
+    - Colecciones
+    - Fecha de Fundacion
+    - logo
+    - Puntuación
